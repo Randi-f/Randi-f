@@ -1,7 +1,7 @@
-### Hello World! 👋
+### Hello World! 
+Come to know me![👋](https://randi-f.github.io/)
 
-<!--
-**Randi-f/Randi-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,10 +11,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![Visitor Count](https://profile-counter.glitch.me/Randi-f/count.svg)
 
+My ![Visitor Count](https://profile-counter.glitch.me/Randi-f/count.svg)  visitor
+
+### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randi-f&layout=compact)](https://github.com/Randi-f/github-readme-stats)
 
 ![Randi-f's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randi-f&show_icons=true&theme=tokyonight)
+
+### emoji
+😀😃😄😁😆😅🤣😂🙂🙃😉😊😇🥰😍🤩😘😗😚😙😋😛😜🤪😝🤑🤗🤭🤫🤔🤐🤨😐😑😶😏😒🙄😬🤥😌😔😪🤤😴😷🤒🤕🤢🤮🤧🥵🥶🥴😵🤯🤠🥳😎🤓🧐😕😟🙁☹️😮😯😲😳🥺😦😧😨😰😥😢😭😱😖😣😞😓😩😫🥱😤😡😠🤬
