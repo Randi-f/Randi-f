@@ -1,5 +1,5 @@
 ### Hello World! 
-Come to know me![👋](https://randi-f.github.io/)
+Come to know me!👋[Randi-Fu](https://randi-f.github.io/)
 
 
 
